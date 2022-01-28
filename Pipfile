@@ -11,6 +11,8 @@ alembic = "*"
 psycopg2 = "*"
 uvicorn = "*"
 python-dotenv = "*"
+requests = "*"
+requests-cache = "*"
 
 [dev-packages]
 

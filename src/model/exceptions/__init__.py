@@ -1,1 +1,1 @@
-from ._Exceptions import RequestException
+from ._Exceptions import RequestException, get_exception

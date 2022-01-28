@@ -1,5 +1,5 @@
 from pydantic import BaseModel
 
 
-class ClinicDto(BaseModel):
+class ClinicRequest(BaseModel):
     id: int

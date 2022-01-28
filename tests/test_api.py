@@ -14,5 +14,6 @@ class ApiTestCase(unittest.TestCase):
     def test_error(self):
         pass
 
+
 if __name__ == '__main__':
     unittest.main()
